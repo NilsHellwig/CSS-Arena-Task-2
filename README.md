@@ -1,31 +1,32 @@
-# CSS Arena – Aufgabe 2: Küstenleben
+# CSS Arena – Task 2: Coastal Living
 
-## Thema: Warum das Küstenleben großartig ist 🐟 🚗 ☀️
+## Topic: Why Coastal Living is Amazing 🐟 🚗 ☀️
 
-Erstelle eine CSS-Datei `styles.css`, die die Gestaltung der folgenden Boxen exakt dem unten abgebildeten Design nachempfindet.
+Create a CSS file `styles.css` that replicates the styling of the following boxes exactly as shown in the design below.
 
-> 🧱 Die HTML-Struktur ist bereits vorgegeben in `index.html` und **darf nicht verändert werden**.
+> 🧱 The HTML structure is already provided in `index.html` and **must not be modified**.
 
-### Designvorgabe:
+### Design Reference:
 
-<img src="ziel.png" alt="Zielansicht der Boxen zu Küstenvorteilen" />
+<img src="ziel.png" alt="Target view of the coastal benefits boxes" />
 
-### Anforderungen:
+### Requirements:
 
-- Drei nebeneinanderliegende Boxen im Kartenstil
-- Gleiche Höhe, gleichmäßige Abstände
-- Weiche, abgerundete Ecken und dezente Schatten
-- Jedes Feature enthält:
-  - ein Icon oben links
-  - eine große, fette Überschrift
-  - einen kurzen erklärenden Text darunter
-  - ein Symbol-Button unten rechts (➡️)
-- Schriftart: Manrope
-- Hintergrundfarbe der Seite: hellgrau (`#f5f5f`7`)
-- Ein Hover-Effekt für die Card (siehe Designvorgabe) 
+- Three side-by-side card-style boxes
+- Equal height, evenly spaced
+- Smooth, rounded corners and subtle shadows
+- Each feature includes:
+  - an icon in the top-left corner
+  - a large, bold heading
+  - a short descriptive text below
+  - a symbol button in the bottom-right corner (➡️)
+- Font: Manrope
+- Page background color: light gray (`#f5f5f7`)
+- A hover effect for the cards (refer to the design reference)
 
 ---
 
-💡 **Tipp:** Nutze `flexbox`, `gap`, `border-radius`, `box-shadow` für feine Details.
+💡 **Tip:** Use `flexbox`, `gap`, `border-radius`, and `box-shadow` for fine details.
 
-Viel Spaß beim Coden! 🚀
+Have fun coding! 🚀
+
